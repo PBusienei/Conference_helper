@@ -61,7 +61,7 @@ This will open a web interface in your browser like the one below;
 
 <div style="width: 60%; height: 60%">
 
-  ![semantic search](images/2022_Summit_event.png=60x50)
+  ![semantic search](images/2022_Summit_event.png =60x50)
 
 </div>
 

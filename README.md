@@ -59,7 +59,7 @@ This will open a web interface in your browser like the one below;
 
 ## Summit event  2022
 
-![semantic search](images/summit.png)
+![semantic search](images/2022_Summit_event.png)
 
 2022 Analytics Summit will be held on **Wednesday Sep 28, 2022 and Thursday Sep 29, 2022**. See you there!
 

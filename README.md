@@ -47,9 +47,10 @@ Run the command below:
 
 This will open a web interface in your browser like the one below;
 
- # Deploying the Streamlit App
+## Deploying the Streamlit App
  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/pbusienei/conference_helper/app.py)
- or 
+
+## Accessing the app locally
  *Local URL: http://localhost:8501*
   *Network URL: http://10.76.227.68:8501*
 

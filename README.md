@@ -55,7 +55,7 @@ This will open a web interface in your browser like the one below;
   *Network URL: http://10.76.227.68:8501*
 
   Or click the link that was provided once you run the streamlit in your command line
-  You can enter your search query in the text box given and your will get your top three Sessions of interest.
+  You can enter your search query in the text box given and you will get your top three Sessions of interest.
 
 ## Summit event  2022
 

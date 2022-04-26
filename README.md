@@ -64,7 +64,7 @@ This will open a web interface in your browser like the one below;
 2022 Analytics Summit will be held on **Wednesday Sep 28, 2022 and Thursday Sep 29, 2022**. See you there!
 
 ## Link to the video
-Coming soon!
+* [Nashville Analytics Summit Video](https://youtu.be/QeN8xrppVm0)
 
 ## Resource Links
 

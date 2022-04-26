@@ -57,6 +57,12 @@ This will open a web interface in your browser like the one below;
   Or click the link that was provided once you run the streamlit in your command line
   You can enter your search query in the text box given and your will get your top three Sessions of interest.
 
+## Summit event  2022
+
+![semantic search](images/summit.png)
+
+2022 Analytics Summit will be held on **Wednesday Sep 28, 2022 and Thursday Sep 29, 2022**. See you there!
+
 ## Link to the video
 Coming soon!
 
